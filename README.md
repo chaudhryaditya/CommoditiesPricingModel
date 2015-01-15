@@ -4,10 +4,16 @@ Written in Python and calling R, this model currently pulls macroeconomic data f
 
 Dependencies:
 
-Python 3
-Quandl Python Library
-Ystockuote
-Numpy
-Scipy
-Rpy
-Pandas
+Python 3,
+Quandl Python Library,
+Ystockuote,
+Numpy,
+Scipy,
+Rpy,
+Pandas,
+
+How to use:
+
+1. Run pullDataFromQuandl.py
+2. Run getAluminiumFromQuandl.py
+3. Run regressionWithPrinComp.py
